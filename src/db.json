@@ -1,0 +1,74 @@
+{
+  "shoe": [
+    {
+      "id": 2,
+      "name": "HUB Glide",
+      "color": " Little-Bone | Bone | Off-White",
+      "price": 119.99,
+      "image": "https://images.footlocker.com/is/image/FLEU/315214435802?wid=231&hei=231&fmt=png-alpha"
+    },
+    {
+      "id": 3,
+      "name": "HUB Smash",
+      "color": "White | Milky Water White",
+      "price": 119.99,
+      "image": "https://images.footlocker.com/is/image/FLEU/315214435802?wid=231&hei=231&fmt=png-alpha"
+    },
+    {
+      "id": 4,
+      "name": "HUB Glide",
+      "color": "Bone | Burgundy | Off-White",
+      "price": 119.99,
+      "image": "https://images.footlocker.com/is/image/FLEU/315214435802?wid=231&hei=231&fmt=png-alpha"
+    },
+    {
+      "id": 5,
+      "name": "HUB Glide",
+      "color": " Little-Bone | Bone | Off-White",
+      "price": 119.99,
+      "image": "https://images.footlocker.com/is/image/FLEU/315214435802?wid=231&hei=231&fmt=png-alpha"
+    },
+    {
+      "id": 7,
+      "name": "HUB Glide",
+      "color": "Bone | Burgundy | Off-White",
+      "price": 119.99,
+      "image": "https://images.footlocker.com/is/image/FLEU/315214435802?wid=231&hei=231&fmt=png-alpha"
+    },
+    {
+      "id": 8,
+      "name": "HUB Glide",
+      "color": " Little-Bone | Bone | Off-White",
+      "price": 119.99,
+      "image": "https://images.footlocker.com/is/image/FLEU/315214435802?wid=231&hei=231&fmt=png-alpha"
+    },
+    {
+      "id": 9,
+      "name": "HUB Smash",
+      "color": "White | Milky Water White",
+      "price": 119.99,
+      "image": "https://images.footlocker.com/is/image/FLEU/315214435802?wid=231&hei=231&fmt=png-alpha"
+    },
+    {
+      "id": 10,
+      "name": "HUB Glide",
+      "color": "Bone | Burgundy | Off-White",
+      "price": 119.99,
+      "image": "https://images.footlocker.com/is/image/FLEU/315214435802?wid=231&hei=231&fmt=png-alpha"
+    },
+    {
+      "id": 11,
+      "name": "HUB Glide",
+      "color": " Little-Bone | Bone | Off-White",
+      "price": 119.99,
+      "image": "https://images.footlocker.com/is/image/FLEU/315214435802?wid=231&hei=231&fmt=png-alpha"
+    },
+    {
+      "id": 12,
+      "name": "HUB Smash",
+      "color": "White | Milky Water White",
+      "price": 119.99,
+      "image": "https://images.footlocker.com/is/image/FLEU/315214435802?wid=231&hei=231&fmt=png-alpha"
+    }
+  ]
+}
